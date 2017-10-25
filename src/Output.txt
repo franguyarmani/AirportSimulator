@@ -1,0 +1,119 @@
+The time is 12:00pm
+There are 2 planes waiting to land
+There are 0 planes waiting to take off
+Flight 1494, queued at 1 was cleared to land on Runway 1
+The time is 12:05pm
+There are 1 planes waiting to land
+There are 2 planes waiting to take off
+Flight 2713, queued at 3 was cleared to land on Runway 1
+Flight 1051, queued at 2 was cleared to take off on Runway 2
+The time is 12:10pm
+There are 3 planes waiting to land
+There are 4 planes waiting to take off
+Flight 421, queued at 5 was cleared to land on Runway 1
+Flight 2426, queued at 4 was cleared to take off on Runway 2
+The time is 12:15pm
+There are 4 planes waiting to land
+There are 5 planes waiting to take off
+Flight 496, queued at 7 was cleared to land on Runway 1
+Flight 549, queued at 6 was cleared to take off on Runway 2
+The time is 12:20pm
+There are 5 planes waiting to land
+There are 7 planes waiting to take off
+Flight 2458, queued at 9 was cleared to land on Runway 1
+Flight 2164, queued at 8 was cleared to take off on Runway 2
+The time is 12:25pm
+There are 7 planes waiting to land
+There are 8 planes waiting to take off
+Flight 1842, queued at 11 was cleared to land on Runway 1
+Flight 3561, queued at 10 was cleared to take off on Runway 2
+The time is 12:30pm
+There are 6 planes waiting to land
+There are 8 planes waiting to take off
+Flight 448, queued at 13 was cleared to land on Runway 1
+Flight 428, queued at 12 was cleared to take off on Runway 2
+The time is 12:35pm
+There are 5 planes waiting to land
+There are 7 planes waiting to take off
+Flight 1653, queued at 15 was cleared to land on Runway 1
+Flight 2868, queued at 14 was cleared to take off on Runway 2
+The time is 12:40pm
+There are 6 planes waiting to land
+There are 7 planes waiting to take off
+Flight 1253, queued at 17 was cleared to land on Runway 1
+Flight 1309, queued at 16 was cleared to take off on Runway 2
+The time is 12:45pm
+There are 8 planes waiting to land
+There are 7 planes waiting to take off
+Flight 2686, queued at 19 was cleared to land on Runway 1
+Flight 2573, queued at 18 was cleared to take off on Runway 2
+The time is 12:50pm
+There are 10 planes waiting to land
+There are 8 planes waiting to take off
+Flight 1958, queued at 21 was cleared to land on Runway 1
+Flight 1179, queued at 20 was cleared to take off on Runway 2
+The time is 12:55pm
+There are 11 planes waiting to land
+There are 9 planes waiting to take off
+Flight 187, queued at 23 was cleared to land on Runway 1
+Flight 2356, queued at 25 was cleared to land on Runway 2
+The time is 1:00pm
+There are 11 planes waiting to land
+There are 10 planes waiting to take off
+Flight 2638, queued at 27 was cleared to land on Runway 1
+Flight 3027, queued at 22 was cleared to take off on Runway 2
+The time is 1:05pm
+There are 12 planes waiting to land
+There are 12 planes waiting to take off
+Flight 3688, queued at 29 was cleared to land on Runway 1
+Flight 2333, queued at 24 was cleared to take off on Runway 2
+The time is 1:10pm
+There are 11 planes waiting to land
+There are 13 planes waiting to take off
+Flight 2904, queued at 31 was cleared to land on Runway 1
+Flight 1467, queued at 26 was cleared to take off on Runway 2
+The time is 1:15pm
+There are 11 planes waiting to land
+There are 14 planes waiting to take off
+Flight 1724, queued at 33 was cleared to land on Runway 1
+Flight 254, queued at 28 was cleared to take off on Runway 2
+The time is 1:20pm
+There are 13 planes waiting to land
+There are 15 planes waiting to take off
+Flight 1633, queued at 30 was cleared to take off on Runway 1
+Flight 2007, queued at 32 was cleared to take off on Runway 2
+The time is 1:25pm
+There are 15 planes waiting to land
+There are 14 planes waiting to take off
+Flight 100, queued at 35 was cleared to land on Runway 1
+Flight 363, queued at 34 was cleared to take off on Runway 2
+The time is 1:30pm
+There are 14 planes waiting to land
+There are 13 planes waiting to take off
+Flight 2365, queued at 37 was cleared to land on Runway 1
+Flight 2501, queued at 36 was cleared to take off on Runway 2
+The time is 1:35pm
+There are 16 planes waiting to land
+There are 13 planes waiting to take off
+Flight 1439, queued at 39 was cleared to land on Runway 1
+Flight 3981, queued at 38 was cleared to take off on Runway 2
+The time is 1:40pm
+There are 15 planes waiting to land
+There are 14 planes waiting to take off
+Flight 277, queued at 41 was cleared to land on Runway 1
+Flight 1523, queued at 40 was cleared to take off on Runway 2
+The time is 1:45pm
+There are 17 planes waiting to land
+There are 15 planes waiting to take off
+Flight 1876, queued at 43 was cleared to land on Runway 1
+Flight 2215, queued at 42 was cleared to take off on Runway 2
+The time is 1:50pm
+There are 17 planes waiting to land
+There are 15 planes waiting to take off
+Flight 2103, queued at 45 was cleared to land on Runway 1
+Flight 977, queued at 44 was cleared to take off on Runway 2
+The time is 1:55pm
+There are 17 planes waiting to land
+There are 15 planes waiting to take off
+Flight 735, queued at 47 was cleared to land on Runway 1
+Flight 1285, queued at 46 was cleared to take off on Runway 2
