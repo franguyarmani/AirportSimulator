@@ -16,6 +16,7 @@ for a person to read and there for needs little explanation.
 
 
 	=======================Classes/Functions======================
+	
 
 		--------------InputRandomizer.java------------
 As mention earlier, this function generates the input. Takes no arguements.
