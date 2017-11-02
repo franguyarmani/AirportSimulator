@@ -4,8 +4,6 @@ public class Runway {
 	public int ID;
 	public Plane LastPlane;
 	
-	
-
 	public Runway() {
 		LastPlane = null;
 	}
